@@ -2,7 +2,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
 
-public class Main {
+public class PartOne {
     /*
      * 1. Создать список из 1_000 рандомных чисел от 1 до 1_000_000
      * 1.1 Найти максимальное

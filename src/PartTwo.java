@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  * 2.5 * Из списока сорудников с помощью стрима создать Map<String, Double> с отделами и средней зарплатой внутри отдела
  */
 
-public class EmployeeStream {
+public class PartTwo {
 
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
